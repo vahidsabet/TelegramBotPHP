@@ -1,5 +1,5 @@
 var searchData=
 [
-  ['telegram',['Telegram',['../class_telegram.html',1,'']]],
-  ['telegramerrorlogger',['TelegramErrorLogger',['../class_telegram_error_logger.html',1,'']]]
+  ['telegram_0',['Telegram',['../class_telegram.html',1,'']]],
+  ['telegramerrorlogger_1',['TelegramErrorLogger',['../class_telegram_error_logger.html',1,'']]]
 ];
